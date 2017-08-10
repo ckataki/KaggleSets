@@ -3,7 +3,6 @@
 ### What is this repository for? ###
 
 * IPython notebooks, and Python code for Kaggle competitions and datasets
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
 
 ### How do I get set up? ###
 
